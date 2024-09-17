@@ -128,7 +128,7 @@ namespace NetLimiter.Service
 ```
 6. **finally save the file**
 
-## Avoiding TItle detection
+## Avoiding Title detection
 1. **open NLclientapp.core.dll in DNSPY**
 2. **Select the dropdown for `NLClientAPP.Core`.**
 3. **Scroll down to `ViewModels`.**
