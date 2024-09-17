@@ -124,4 +124,19 @@ namespace NetLimiter.Service
     }
 }
 ```
-4.
+6. **finally save the file**
+
+## Avoiding TItle detection
+1. **open NLclientapp.core.dll in DNSPY**
+2. **Select the dropdown for `NLClientAPP.Core`.**
+3. **Scroll down to `ViewModels`.**
+4. **Find `MainVM`, which can be located on line 38 of the file.**
+5. **Scroll to line 573 you should see this.NLAppVerName = "Netlimiter 4";
+6. **Right click and Edit IL instructions**
+7. **Scroll to line 109 and edit "Netlimiter 4" to whatever you want your title name to be then select ok**
+8. **save the file**
+9. **Open your netlimiter folder located at C:\Program Files\Locktime Software\NetLimiter 4**
+10. **Rename the NLClientapp file to anything you want then open it**
+
+
+
