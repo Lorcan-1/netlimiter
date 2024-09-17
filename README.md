@@ -1,5 +1,6 @@
 # netlimiter
-**A short guide for how to crack netlimiter for use alongside online videogames
+**A short guide for how to crack netlimiter for use in online video games**
+**The default file path for netlimiter is C:\Program Files\Locktime Software\NetLimiter 4**
 
 ## Prerequisites
 To follow this guide, you will need the following software:
