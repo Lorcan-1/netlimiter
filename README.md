@@ -12,3 +12,5 @@ To follow this guide, you will need the following software:
    [dnSpy v6.1.8 - Windows 64-bit](https://github.com/dnSpy/dnSpy/releases/download/v6.1.8/dnSpy-net-win64.zip).
 
 ## Guide
+1. **Open netlimiter.dll and NLClientApp.Core.dll in DNSSPY**
+2. **select the drop down for the netlimiter.dll scroll down and do the same for NetLimiter service and finally nllicense which can also be found on line 97 of netlimiterservice**
