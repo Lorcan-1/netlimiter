@@ -141,6 +141,6 @@ namespace NetLimiter.Service
  10. **Rename the NLClientapp file to anything you want then open it**
 
 ## Pre-existing DLL
-**attached is an already cracked/title changed dll feel free to use this however bungie tends to check for dll files posted to github such as with NLTweaks**
-**You can likely use NLTweaks still by changing the title to something else and you can find that project from kanye at https://github.com/kanye4king/NLTweaks**
+**Attached is a DLL with the title already changed. You are welcome to use it; however, be aware that Bungie often checks for DLL files posted on GitHub, as seen with NLTweaks. For added security, it is recommended to change the title yourself.**
+**You may still use NLTweaks by modifying the title to a different name. You can find the NLTweaks project by Kanye at (https://github.com/kanye4king/NLTweaks).**
 
