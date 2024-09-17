@@ -12,11 +12,11 @@ To follow this guide, you will need the following software:
    [dnSpy v6.1.8 - Windows 64-bit](https://github.com/dnSpy/dnSpy/releases/download/v6.1.8/dnSpy-net-win64.zip).
 
 ## Crack
-1. **Open netlimiter.dll in DNSPY
+1. **Open netlimiter.dll in DNSPY**
 2. **Select the dropdown for `netlimiter.dll`.**
 3. **Scroll down and perform the same action for `NetLimiter service`.**
 4. **Finally, locate and select `nllicense`, which can also be found on line 97 of `netlimiterservice`.**
-5. Right click and select edit class within NLlicense and paste the below then press compile
+5. **Right click and select edit class within NLlicense and paste the below then press compile**
 ```cs
 using System;
 using System.Runtime.Serialization;
