@@ -140,5 +140,7 @@ namespace NetLimiter.Service
 9. **Open your netlimiter folder located at C:\Program Files\Locktime Software\NetLimiter 4**
  10. **Rename the NLClientapp file to anything you want then open it**
 
-
+## Pre-existing DLL
+**attached is an already cracked/title changed dll feel free to use this however bungie tends to check for dll files posted to github such as with NLTweaks**
+**You can likely use NLTweaks still by changing the title to something else and you can find that project from kanye at https://github.com/kanye4king/NLTweaks**
 
