@@ -136,7 +136,7 @@ namespace NetLimiter.Service
 7. **Scroll to line 109 and edit "Netlimiter 4" to whatever you want your title name to be then select ok**
 8. **save the file**
 9. **Open your netlimiter folder located at C:\Program Files\Locktime Software\NetLimiter 4**
-10. **Rename the NLClientapp file to anything you want then open it**
+ 10. **Rename the NLClientapp file to anything you want then open it**
 
 
 
