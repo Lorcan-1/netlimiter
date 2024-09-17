@@ -18,7 +18,7 @@ To follow this guide, you will need the following software:
 2. **Select the dropdown for `netlimiter.dll`.**
 3. **Scroll down and perform the same action for `NetLimiter service`.**
 4. **Finally, locate and select `nllicense`, which can also be found on line 97 of `netlimiterservice`.**
-5. **Right click and select edit class within NLlicense and paste the below then press compile**
+5. **Right click and select edit class within NLlicense and paste the code below and then press compile**
 ```cs
 using System;
 using System.Runtime.Serialization;
