@@ -133,7 +133,7 @@ namespace NetLimiter.Service
 2. **Select the dropdown for `NLClientAPP.Core`.**
 3. **Scroll down to `ViewModels`.**
 4. **Find `MainVM`, which can be located on line 38 of the file.**
-5. **Scroll to line 573 you should see this.NLAppVerName = "Netlimiter 4";
+5. **Scroll to line 573 you should see this.NLAppVerName = "Netlimiter 4";**
 6. **Right click and Edit IL instructions**
 7. **Scroll to line 109 and edit "Netlimiter 4" to whatever you want your title name to be then select ok**
 8. **save the file**
