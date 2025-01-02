@@ -7,7 +7,7 @@
 To follow this guide, you will need the following software:
 
 1. **NetLimiter 4.1.13**  
-   You can download NetLimiter version 4.1.13 [here](https://www.netlimiter.com/download/nl4/NetLimiterSetup_4.1.13.exe).
+   You can download NetLimiter version 4.1.13 [here](https://www.netlimiter.com/releases/4-1-13-0).
 
 2. **dnSpy**  
    Download dnSpy from the official GitHub repository:  
